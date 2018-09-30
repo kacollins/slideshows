@@ -5,3 +5,4 @@
 * [Free Code Camp OKC](https://docs.google.com/presentation/d/e/2PACX-1vQg0InTgGUHZQbCJT3vgqSJjrWX4o0xcb7C5-lp4sroJ30k69B5_CCBZ3ltb144dQiHcydOJYBkw67D/pub?start=true&loop=true&delayms=10000)
 * [What is RailsBridge?](https://docs.google.com/presentation/d/1DCSR7RLkitXI1I2iVaUDx7iJB2LBGINZOLmFF4Ne_IM/edit?usp=sharing)
 * [Hacktoberfest](https://docs.google.com/presentation/d/16POieTpY2YbjINpxx8TnM7j_DM9m6YinD8DrB9_WfK4/edit?usp=sharing)
+* [Grassroots Case for Support](https://docs.google.com/presentation/d/1F9WbfH7tfuznJnZI5GTZJQFsOcVEwFXvPPnzhh4QqHY/edit?usp=sharing)
