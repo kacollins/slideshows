@@ -6,3 +6,4 @@
 * [What is RailsBridge?](https://docs.google.com/presentation/d/1DCSR7RLkitXI1I2iVaUDx7iJB2LBGINZOLmFF4Ne_IM/edit?usp=sharing)
 * [Hacktoberfest](https://docs.google.com/presentation/d/16POieTpY2YbjINpxx8TnM7j_DM9m6YinD8DrB9_WfK4/edit?usp=sharing)
 * [Grassroots Case for Support](https://docs.google.com/presentation/d/1kprFPYygcmrZJqo5XNGE9uXOxLuGjzrG73ThWUGhUDw)
+* [Grassroots Case for Support - Autoplay](https://docs.google.com/presentation/d/e/2PACX-1vQzk7rNDDMHWJuKzScfuofTDRqen4s3pLogP4DdZnS3GHJjk83cdZug3GAEtZdhTi0hV8tCdhQQCdAN/pub?start=true&loop=true&delayms=15000)
