@@ -7,3 +7,4 @@
 * [Hacktoberfest](https://docs.google.com/presentation/d/16POieTpY2YbjINpxx8TnM7j_DM9m6YinD8DrB9_WfK4/edit?usp=sharing)
 * [Grassroots Case for Support](https://docs.google.com/presentation/d/1kprFPYygcmrZJqo5XNGE9uXOxLuGjzrG73ThWUGhUDw)
 * [Grassroots Case for Support - Autoplay](https://docs.google.com/presentation/d/e/2PACX-1vQzk7rNDDMHWJuKzScfuofTDRqen4s3pLogP4DdZnS3GHJjk83cdZug3GAEtZdhTi0hV8tCdhQQCdAN/pub?start=true&loop=true&delayms=15000)
+* [Rails OKC Workshop](https://docs.google.com/presentation/d/1qa-96tzZUFWysmQ_ZIMqb7C4J_UuSg9FEsu-LvXcQW8/edit?usp=sharing)
